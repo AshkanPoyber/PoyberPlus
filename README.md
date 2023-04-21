@@ -48,6 +48,9 @@ v0.0.0.1 : <br>
 <br>
 💢 And Absolutely So Much More
 
+# Pay Attention
+⚠ It Is Alpha Version , So It Getting So Problems At This Time , I'm Working On Fix!
+
 # Known Issue's
 ⚠ It Is Alpha Version , So It Getting So Problems At This Time , I'm Working On Fix!
 
