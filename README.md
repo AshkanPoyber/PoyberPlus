@@ -10,7 +10,7 @@
 # PoyberKnight
 My Final University Project -> ( PoyberKnight ) 
 <br>
-🛑 Please Pay Attention , The Language Of This Project Is Persian And Its Localized. If You're Looking For My Other Projects Then [Click Here!](https://github.com/AshkanPoyber?tab=repositories)
+🛑 Please Pay Attention , This Is a 2D Game And The Possibility Of Its Development After Its Construction Is Certain. If You're Looking For My Other Projects Then [Click Here!](https://github.com/AshkanPoyber?tab=repositories)
 
 # Changelog
 v0.0.0.1 : <br>
