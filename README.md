@@ -16,35 +16,35 @@ My Final University Project -> ( PoyberKnight )
 v0.0.0.1 : <br>
 ✅ Alpha Version Published!
 # ToDo List
-💢 StartUp Page
+💢 PLayer Movement
 <br>
-💢 Adding Shopping Cart
+💢 Animation
 <br>
-💢 Adding Comment Section
+💢 Wall Jumping
 <br>
-💢 Adding User Registration And Login System
+💢 Shooting
 <br>
-💢 Adding Admin Panel To Manage Shop
+💢 Graphics
 <br>
-💢 Adding Orders Section
+💢 Camera
 <br>
-💢 Adding Payment Method ( IN SANDBOX MODE )
+💢 Health System
 <br>
-💢 Adding Product Pages
+💢 Iframes
 <br>
-💢 Adding Contact Us Page
+💢 Traps
 <br>
-💢 Adding About Us Page
+💢 Enemies
 <br>
-💢 Adding Some Error Page Example (404)
+💢 Audio
 <br>
-💢 Adding Profile System
+💢 Advanced Jumping
 <br>
-💢 Adding Category System
+💢 CheckPoints & Respawn
 <br>
-💢 Improving UI/UX Such As Responsive
+💢 Game Over
 <br>
-💢 Design A Logo For Related Site
+💢 Pause Menu
 <br>
 💢 And Absolutely So Much More
 
