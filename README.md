@@ -49,7 +49,7 @@ v0.0.0.1 : <br>
 💢 And Absolutely So Much More
 
 # Pay Attention
-⚠ It Is Alpha Version , So It Getting So Problems At This Time , I'm Working On Fix!
+💥 The Construction Of This Game Will Begin In July , Thank You For Your Patience ❤
 
 # Known Issue's
 ⚠ It Is Alpha Version , So It Getting So Problems At This Time , I'm Working On Fix!
