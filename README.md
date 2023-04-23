@@ -16,35 +16,33 @@ My Final University Project -> ( PoyberKnight With Unity Engine)
 v0.0.0.1 : <br>
 ✅ Alpha Version Published!
 # ToDo List
-💢 PLayer Movement
+💢 Ready Some Apps And Ideas
 <br>
-💢 Animation
+💢 TileMap & Tile Palette
 <br>
-💢 Wall Jumping
+💢 Player Movement
 <br>
-💢 Shooting
+💢 Animation & Animator 
 <br>
-💢 Graphics
+💢 Multiple Animations 
 <br>
-💢 Camera
+💢 Grounding Check Using Boxcast
 <br>
-💢 Health System
+💢 Collect & Count Items
 <br>
-💢 Iframes
+💢 Player Death Logic
 <br>
-💢 Traps
+💢 Moving Platforms
 <br>
-💢 Enemies
+💢 Graphics 
 <br>
-💢 Audio
+💢 Rotating Saws 
 <br>
-💢 Advanced Jumping
+💢 Sound Effects & Background Music 
 <br>
-💢 CheckPoints & Respawn
+💢 Adding Multiple Levels 
 <br>
-💢 Game Over
-<br>
-💢 Pause Menu
+💢 Start & Game Over Menu 
 <br>
 💢 And Absolutely So Much More
 
