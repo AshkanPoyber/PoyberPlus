@@ -50,6 +50,8 @@ v1.1.1.0 : <br>
 <br>
 💢 Adding Portfolio Page 
 <br>
+💢 Adding Resume Page
+<br>
 💢 Adding Showcase Projects
     <br>
    💥 1 : Animate Text
@@ -75,6 +77,6 @@ v1.1.1.0 : <br>
 💥 This Is My Final Website Project For My University , But Wait For Other Personal Projects , Thank You For Your Patience 🌹
 
 # Known Issue's
-⚠ It Is Final Version , Maybe It Getting So Problems At This Time , I'm Working On Fix! But Wait For Development
+⚠ It Is Final Version , Maybe It Getting Some Problems At This Time , I'm Working On Fix! But Wait For Development
 💥
 
