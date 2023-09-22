@@ -55,7 +55,7 @@ v1.1.1.0 : <br>
     4 : Game ( Block Tower )
     5 : Game ( Find Way )
     6 : Game ( Levels )
-    7 : Game ( Ninja Break )
+7 : Game ( Ninja Break )
 # Pay Attention
 💥 This Is My Final Website Project For My University , But Wait For Other Personal Projects , Thank You For Your Patience 🌹
 
