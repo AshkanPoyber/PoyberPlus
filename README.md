@@ -67,6 +67,6 @@ v1.1.1.0 : <br>
 💥 This Is My Final Website Project For My University , But Wait For Other Personal Projects , Thank You For Your Patience 🌹
 
 # Known Issue's
-⚠ It Is Final Version , So It Getting So Problems At This Time , I'm Working On Fix! But Wait For Development
+⚠ It Is Final Version , Maybe It Getting So Problems At This Time , I'm Working On Fix! But Wait For Development
 💥
 
