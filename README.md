@@ -20,7 +20,7 @@ My Final University Project -> ( PoyberPlus With HTML , CSS , JS , PHP , SQL )
 
 # Changelog
 v1.1.1.0 : <br>
-✅ Fanil Version Published!
+✅ Final Version Published!
 # ToDo List
 💢 Main Page
 <br>
