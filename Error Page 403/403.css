@@ -1,0 +1,82 @@
+@font-face {
+    font-family: Far_Morvarid;
+    src: url('Fonts/Far_Morvarid.eot');
+    src: local(''),
+        url('Fonts/Far_Morvarid.woff') format('woff'),
+        url('Fonts/Far_Morvarid.ttf') format('truetype'),
+        url('Fonts/Far_Morvarid.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    margin: 0;
+    font-family: Far_morvarid;
+}
+
+.section {
+    width: 100vw;
+    height: 100vh;
+}
+
+.text-ctn {
+    margin: 18px;
+}
+
+.marquee {
+    width: 360px;
+    border-bottom: 3px solid #00ff00;
+    background-color: #00ff00;
+    white-space: nowrap;
+}
+
+.marquee-text {
+    display: inline-block;
+    width: 260px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff0000;
+    animation: scroll 3s linear infinite;
+}
+
+.marquee-text:before {
+    content: "دسترسی ممنوع است";
+}
+
+@keyframes scroll {
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+#sec-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d400ff;
+}
+
+#ctn {
+    margin-top: 40px;
+    width: 360px;
+    height: 360px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    overflow: hidden;
+}
+
+#forbidden {
+    display: inline-block;
+    padding: 5px 10px 5px 10px;
+    border: 2px solid #ff0000;
+    border-radius: 8px;
+    font-size: 50px;
+    animation: flash 1s linear infinite;
+}
+
+@keyframes flash {
+    50% {
+        opacity: 0;
+    }
+}
