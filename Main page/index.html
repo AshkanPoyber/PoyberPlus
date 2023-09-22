@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Main Page | PoyberPlus</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css"
+    />
+    <link rel="icon" href="Icon.png">
+    <link rel="stylesheet" href="./css/main.css" />
+    <link rel="stylesheet" href="./css/loader.css" />
+    <link rel="stylesheet" href="./css/header.css">
+    <link rel="stylesheet" href="./css/section.css" />
+    <link rel="stylesheet" href="./css/footer.css" />
+    <link rel="stylesheet" href="./css/medyaQuery.css" />
+    <style></style>
+  </head>
+  <body onscroll="headerHndler(event)" onload="loded()">
+    <div class="loader">
+      <p class="getLoader"></p>
+      <div class="loader_red"></div>
+      <div class="loader_blue"></div>
+      <div class="loader_green"></div>
+    </div>
+    <div class="container">
+      <div class="bg"></div>
+      <header>
+        <div class="div">
+          <span class="span"></span>
+          <span class="span"></span>
+          <span class="span"></span>
+          <span class="span"></span>
+        </div>
+        <div class="container">
+          <div class="header">
+            <div class="header_right">
+              <div class="header_titel">
+                <img width="60px" src="./img/Logo.png" alt="" />
+              </div>
+              <div class="header_item">
+                <ul class="listitem">
+                  <li class="itemlist">
+                    <a class="links" href="#">خانه</a> <span></span>
+                  </li>
+                  <li class="itemlist">
+                    <a class="links" href="#" onclick='changePage("https\://aparat.com/AshkanPoyber")'>آپارات</a><span></span>
+                  </li>
+                  <li class="itemlist">
+                    <a class="links" href="#" onclick='changePage("https\://YouTube.com/AshkanPoyber")'>یوتیوب</a><span></span>
+                  </li>
+                  <li class="itemlist">
+                    <a class="links" href="#" onclick='changePage("../Resume/Resume.html")'>رزومه</a><span></span>
+                  </li>
+                  <li class="itemlist">
+                    <a class="links" href="#" onclick='changePage("../Contact Us/ContactUs.html")'>پورتفولیو</a><span></span>
+                  </li>
+                  <li class="itemlist">
+                    <a class="links" href="#" onclick='changePage("../About Us/AboutUs.html")'>درباره ما</a><span></span>
+                  </li>
+                  <li class="itemlist">
+                    <a class="links" href="#" onclick='changePage("../Contact Us/ContactUs.html")'>تماس با ما</a><span></span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="header_left">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="26"
+                height="26"
+                fill="currentColor"
+                class="bi bi-sun"
+                viewBox="0 0 16 16"
+              >
+                <path
+                  d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm0 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"
+                />
+              </svg>
+              <form class="form">
+                <input type="text" placeholder="جستجو....." class="input_form" />
+                <button class="btn_form"><i class="bi bi-search"></i></button>
+              </form>
+              <div class="leftHeader">
+                <a class="btn right_a" href="#">ورود</a>
+                <a class="btn left_a" href="#">ثبت نام</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <section>
+        <div class="h1Elem">
+          <h1 class="h1Element">
+            خودآموزی ، کسب تجربه ، ورود به بازار کار با پوی لرن با کمترین
+            هزینه خودت حرفه ایی یاد بگیر
+          </h1>
+          <div class="imgElem">
+            <div class="img_1">
+              <img width="200px" src="./img/stat-time.svg" alt="" />
+              <p>ساعت آموزش</p>
+              <p>12154 دقیقه</p>
+            </div>
+            <div class="img_1">
+              <img
+                style="margin: 0 50px"
+                width="200px"
+                src="./img/stat-teacher.svg"
+                alt=""
+              />
+              <p>تعداد مدرس</p>
+              <p>124 مدرس</p>
+            </div>
+            <div class="img_1">
+              <img width="200px" src="./img/stat-student.svg" alt="" />
+              <p>تعداد دانشجو</p>
+              <p>5014 دانشجو</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <section class="section">
+      <div class="container">
+        <div class="row bg-light">
+          <div class="card topElem">
+            <div class="img"><img src="./img/Color.jpg" alt="" /></div>
+            <p class="titel">Photoshop Tutorials | چگونگی تغییر رنگ در فتوشاپ | PoyberPlus</p>
+            <div class="info">
+              در این قسمت از آموزش، میخوایم رنگ هر چیزی رو با استفاده از نرم افزار فتوشاپ تغییر بدیم
+            </div>
+            <button class="btn shop">مشاهده</button>
+          </div>
+          <div class="card topElem">
+            <div class="img"><img src="./img/PS.jpg" alt="" /></div>
+            <p class="titel">آموزش چگونگی قرار دادن تصویر در متن با فتوشاپ | PoyberPlus</p>
+            <div class="info">
+              در این قسمت از آموزش، میخوایم یه لوگو طراحی کنیم که هر تصویری رو داخل متن مورد نظر قرار بدید
+            </div>
+            <button class="btn shop">مشاهده</button>
+          </div>
+          <div class="card topElem">
+            <div class="img"><img src="./img/Clock.jpg" alt="" /></div>
+            <p class="titel">آموزش ساخت ساعت با جاوا اسکریپت | PoyberPlus</p>
+            <div class="info">
+              در این قسمت از آموزش، میخوایم یک ساعت عقربه ای  با زبان های برنامه نویسی Html, Css, Js، بسازیم
+            </div>
+            <button class="btn shop">مشاهده</button>
+          </div>
+
+          <div class="card bg-light-50">
+            <div class="img"><img src="./img/c.jpg" alt="" /></div>
+            <p class="titel">آموزش برنامه نویسی سی شارپ | PoyberPlus</p>
+            <div class="info">
+              در این قسمت از آموزش، میخوایم یه پروژه درست کنیم که با استفاده از این برنامه، شاخص توده بدنی رو محاسبه کنیم
+            </div>
+            <button class="btn shop">مشاهده</button>
+          </div>
+          <div class="card bg-light-50">
+            <div class="img"><img src="./img/PlugIn.jpg" alt="" /></div>
+            <p class="titel">ساخت اورلی یا قاب با فتوشاپ | PoyberPlus</p>
+            <div class="info">
+              در این قسمت از آموزش، قراره با چند کلیک ساده، یک اورلی یا همون قاب با استفاده از نرم افزار فتوشاپ  طراحی کنیم
+            </div>
+            <button class="btn shop">مشاهده</button>
+          </div>
+          <div class="card bg-light-50">
+            <div class="img"><img src="./img/Rectangel.jpg" alt="" /></div>
+            <p class="titel">کار با ابزار Rectangular Tool | PoyberPlus</p>
+            <div class="info">
+              در این قسمت از آموزش، میخوایم با ابزار Rectangular Tool در نرم افزار فتوشاپ آشنا بشیم
+            </div>
+            <button class="btn shop">مشاهده</button>
+          </div>
+          <div class="card bg-light-50">
+            <div class="img"><img src="./img/Delete.jpg" alt="" /></div>
+            <p class="titel"> حذف اشیا یا افراد از پس زمینه | PoyberPlus</p>
+            <div class="info">
+              در این قسمت از آموزش، میخوایم نحوه چگونگی حذف اشیا یا افراد از پس زمینه در فتوشاپ رو یاد بگیریم
+            </div>
+            <button class="btn shop">مشاهده</button>
+          </div>
+          <div class="card bg-light-50">
+            <div class="img"><img src="./img/Wall.jpg" alt="" /></div>
+            <p class="titel">عکس خودت رو روی دیوار چاپ کن | PoyberPlus</p>
+            <div class="info">
+              در این قسمت از آموزش، میخوایم عکس شخصی رو روی دیوار چاپ کنیم، یه افکت باحال و جذاب
+            </div>
+            <button class="btn shop">مشاهده</button>
+          </div>
+          <div class="card bg-light-50">
+            <div class="img"><img src="./img/bandicam.jpg" alt="" /></div>
+            <p class="titel">آموزش برنامه بندیکم برای ضبط ویدئو | PoyberPlus</p>
+            <div class="info">
+              
+در این قسمت از آموزش، قرار نحوه کار کردن از صفر تا صد با برنامه بندیکم ( Bandicam ) رو بهتون آموزش بدم
+            </div>
+            <button class="btn shop">مشاهده</button>
+          </div>
+        </div>
+        <div class="btn BtnDown">
+          بیشتر<i class="bi bi-arrow-down-short"></i>
+        </div>
+      </div>
+      <div class="svg">
+        <svg
+          viewBox="0 0 500 150"
+          preserveAspectRatio="none"
+          style="height: 100%; width: 100%"
+        >
+          <path
+            class="path"
+            d="M-2.02,38.08 C136.80,135.76 378.35,56.82 504.76,105.17 L500.01,149.97 L0.00,149.97 Z"
+            style="transition: 1s; stroke: none; fill: rgb(171, 172, 172)"
+          ></path>
+        </svg>
+        <svg
+          viewBox="0 0 500 150"
+          preserveAspectRatio="none"
+          style="height: 100%; width: 100%"
+        >
+          <path
+            class="chengeColorSvg"
+            d="M-2.02,38.08 C136.80,135.76 378.35,56.82 504.76,105.17 L500.01,149.97 L0.00,149.97 Z"
+            style="stroke: none; fill: rgb(33, 37, 41)"
+          ></path>
+        </svg>
+      </div>
+    </section>
+    <section style="min-height: auto !important; background-color: rgb(33, 37, 41); margin-top: -10px;"  class="section">
+      <div class="container">
+        <div class="box_footer">
+          <div class="col col_nazar">
+            <p>در صورت تمایل ، نظر خود را با ما به اشتراک بکذارید</p>
+            <form>
+              <input
+                type="text"
+                id="inputEmail"
+                placeholder="لطفا ایمیل خود را وارد کنید"
+              />
+              <textarea
+                id="textareaElem"
+                cols="25"
+                rows="9"
+                placeholder="..."
+              ></textarea>
+              <button class="btn btn_nazar">ارسال</button>
+            </form>
+          </div>
+          <div class="col col_nav">
+            <ul class="nav_ul">
+              <li class="ul_li"><a href="#">خانه</a><span></span></li>
+              <li class="ul_li">
+                <a href="#">آپارات</a><span></span>
+              </li>
+              <li class="ul_li"><a href="#">رزومه</a><span></span></li>
+              <li class="ul_li"><a href="#">درباره ما</a><span></span></li>
+              <li class="ul_li"><a href="#"> تماس با ما</a><span></span></li>
+            </ul>
+          </div>
+          <div dir="ltr" class="col col_ertebat">
+            <h3>راه های ارتباطی</h3>
+            <ul>
+              <li class="li_ertebat">Instagram : <a href="https://Instagram.com/AshkanPoyber">AshkanPoyber</a></li>
+              <li class="li_ertebat">Telegram : <a href="https://t.me/AshkanPoyber">AshkanPoyber</a></li>
+              <li class="li_ertebat">GitHub : <a href="https://github.com/AshkanPoyber">AshkanPoyber</a></li>
+              <li class="li_ertebat">YouTube : <a href="https://youtube.com/AshkanPoyber">AshkanPoyber</a></li>
+            </ul>
+          </div>
+          <div class="col col_bartary">
+            <img src="./img/star1.png" alt="" />
+          </div>
+        </div>
+      </div>
+    </section>
+    <script src="./js/app.js"></script>
+    <script src="./js/localStorage.js"></script>
+  </body>
+</html>

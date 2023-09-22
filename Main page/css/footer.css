@@ -1,0 +1,79 @@
+@font-face {
+    font-family: Far_Morvarid;
+    src: url('Fonts/Far_Morvarid.eot');
+    src: local(''),
+        url('Fonts/Far_Morvarid.woff') format('woff'),
+        url('Fonts/Far_Morvarid.ttf') format('truetype'),
+        url('Fonts/Far_Morvarid.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.box_footer{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-white);
+    width: 290px;
+}
+.col_nazar form textarea{
+    max-width: 300px;
+    max-height: 250px;
+    border-radius: 15px;
+    border: none;
+    letter-spacing: 0.05em;
+    outline: none;
+    padding: 10px;
+}
+.col_nazar form input{
+    padding: 10px;
+    margin:20px 10px 20px 0;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    letter-spacing: 0.05em;
+}
+.btn_nazar{
+    border: 1px solid var(--color-lightgray);
+    cursor: pointer;
+    color:rgb(0, 0, 0) ;
+    width: 70px;
+}
+.btn_nazar:hover{
+    border: 1px solid var(--color-green);
+    color: var(--color-green);
+}
+.ul_li{
+    padding: 10px;
+}
+.ul_li a{
+    color: var(--color-white);
+}
+.li_ertebat{
+    padding: 10px;
+}
+.li_ertebat a{
+    color: var(--color-lightgray);
+    transition: 0.5s;
+}
+.li_ertebat a:hover{
+    color: green;
+}
+.col_bartary img{
+    background-color: var(--color-cardwhite);
+}
+.svg{
+    position: relative;
+}
+svg:nth-child(2){
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 5;
+}

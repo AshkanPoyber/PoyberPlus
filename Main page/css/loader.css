@@ -1,0 +1,55 @@
+@font-face {
+  font-family: Far_Morvarid;
+  src: url('Fonts/Far_Morvarid.eot');
+  src: local(''),
+      url('Fonts/Far_Morvarid.woff') format('woff'),
+      url('Fonts/Far_Morvarid.ttf') format('truetype'),
+      url('Fonts/Far_Morvarid.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.loader{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background-color:  var(--color-dark);
+    z-index: 100;
+    display: flex;   
+    align-items: center;
+    justify-content: center;
+}
+.loader_red{
+  position: absolute;
+  width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border-bottom:2px solid rgb(255, 0, 0);
+    z-index: 125;
+    animation: rotate 4.5s linear infinite;
+}
+.loader_blue{
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border-right:3px solid rgb(0, 195, 255);
+  z-index: 125;
+  animation: rotate 6s linear infinite;
+}
+.loader_green{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border-top:4px solid #3cff00;
+  z-index: 125;
+  animation: rotate 3s linear infinite;
+}
+@keyframes rotate{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
