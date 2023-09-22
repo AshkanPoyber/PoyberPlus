@@ -64,7 +64,7 @@ v1.1.1.0 : <br>
 <br>
 💢 And Absolutely So Much More
 # Pay Attention
-💥 The Construction Of This Game Will Begin In July , Thank You For Your Patience 🌹
+💥 This Is My Final Website Project For My University , But Wait For Other Personal Projects , Thank You For Your Patience 🌹
 
 # Known Issue's
 ⚠ It Is Final Version , So It Getting So Problems At This Time , I'm Working On Fix! But Wait For Development
