@@ -50,7 +50,7 @@ v1.1.1.0 : <br>
 <br>
 💢 Adding Showcase Projects
     <br>
-    1 : Animate Text
+          1 : Animate Text
     <br>
     2 : Advance Clock
     <br>
