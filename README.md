@@ -49,13 +49,20 @@ v1.1.1.0 : <br>
 💢 Adding Portfolio Page 
 <br>
 💢 Adding Showcase Projects
+    <br>
     1 : Animate Text
+    <br>
     2 : Advance Clock
+    <br>
     3 : Neon Text
+    <br>
     4 : Game ( Block Tower )
+    <br>
     5 : Game ( Find Way )
+    <br>
     6 : Game ( Levels )
-7 : Game ( Ninja Break )
+    <br>
+    7 : Game ( Ninja Break )
 # Pay Attention
 💥 This Is My Final Website Project For My University , But Wait For Other Personal Projects , Thank You For Your Patience 🌹
 
