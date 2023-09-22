@@ -3,7 +3,7 @@
 </p>
 
 # PoyberPlus
-[![Ashkan Poyber](https://img.shields.io/badge/Ashkan-Pouber-e4181c.svg?labelColor=0000ff)](#)
+[![Ashkan Poyber](https://img.shields.io/badge/Ashkan-Poyber-e4181c.svg?labelColor=0000ff)](#)
 [![Made in Iran](https://img.shields.io/badge/made_in-iran-ffd700.svg?labelColor=0057b7)](https://github.com/AshkanPoyber)
 [![University Project](https://img.shields.io/badge/University-Project-e4181c.svg?labelColor=0000ff)](#)
 <a href="https://www.youtube.com/AcerMRD"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
