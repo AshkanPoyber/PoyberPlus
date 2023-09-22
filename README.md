@@ -22,47 +22,31 @@ My Final University Project -> ( PoyberPlus With HTML , CSS , JS , PHP , SQL )
 v1.1.1.0 : <br>
 ✅ Final Version Published!
 # ToDo List
-💢 Main Page
+💢 Adding Main Page
 <br>
-💢 Adding Shopping Cart
+💢 Adding About US
 <br>
-💢 Adding Comment Section
+💢 Adding Contact US
 <br>
-💢 Adding User Registration And Login System
+💢 Adding Error Page ( 400 )
 <br>
-💢 Adding Orders Section
+💢 Adding Error Page ( 403 )
 <br>
-💢 Adding Payment Method ( IN SANDBOX MODE )
+💢 Adding Error Page ( 404 )
 <br>
-💢 Adding Product Pages
+💢 Adding Loader
 <br>
-💢 Adding Contact Us Page
+💢 Adding LogIn And SignUp Pages Together
 <br>
-💢 Adding About Us Page
+💢 Adding MessageBox ( Connection Failed )
 <br>
-💢 Adding Some Error Page Example (404)
+💢 Adding MessageBox ( File Uploaded )
 <br>
-💢 Adding Some Error Page Example (403)
+💢 Adding MessageBox ( Successfully Register )
 <br>
-💢 Adding Some Error Page Example (400)
+💢 Adding MessageBox ( Wrong Password )
 <br>
-💢 Loader
-<br>
-💢 Adding Profile System
-<br>
-💢 Adding Category System
-<br>
-💢 MessageBox ( File Uploaded )
-<br>
-💢 MessageBox ( Wrong Password )
-<br>
-💢 MessageBox ( Successfully Register )
-<br>
-💢 Improving UI/UX Such As Responsive
-<br>
-💢 Design A Logo For Related Site
-<br>
-💢 And Absolutely So Much More
+💢 Adding Resume Page For Personal Introduction
 # Pay Attention
 💥 This Is My Final Website Project For My University , But Wait For Other Personal Projects , Thank You For Your Patience 🌹
 
