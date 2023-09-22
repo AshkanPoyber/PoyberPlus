@@ -1,0 +1,133 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:800);
+
+.box-with-text {
+    background-image: url('http://skipthepie.org/nutrition-photos/o/18958_130419356684071.jpg');
+    -webkit-text-fill-color: transparent;
+}
+
+.box-with-text {
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-20%) translateY(-20%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background-repeat: repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    white-space: nowrap;
+    text-align: center;
+    text-transform: uppercase;
+    font: 16vmax/.85 Open Sans, Impact;
+}
+
+.text {
+    font: 7em/1 Open Sans, Impact;
+    text-transform: uppercase;
+}
+
+.simple {
+    fill: url(#gr-simple);
+}
+
+.radial {
+    fill: url(#gr-radial);
+}
+
+.g-spots circle:nth-child(5n + 1) {
+    fill: #1D4259;
+}
+
+.g-spots circle:nth-child(5n + 2) {
+    fill: #0A7373;
+}
+
+.g-spots circle:nth-child(5n + 3) {
+    fill: #30BF7C;
+}
+
+.g-spots circle:nth-child(5n + 4) {
+    fill: #BAF266;
+}
+
+.g-spots circle:nth-child(5n + 5) {
+    fill: #EEF272;
+}
+
+.text-pattern {
+    fill: url(#p-spots);
+    stroke: #1D4259;
+    stroke-width: 5;
+    stroke-opacity: .5;
+    font: 7em/1 Open Sans, Impact;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.text-animate {
+    font: 7em/1 Open Sans, Impact;
+    text-transform: uppercase;
+    margin: 0;
+    fill: none;
+    stroke-width: 6;
+    stroke-linejoin: round;
+    stroke-dasharray: 70 330;
+    stroke-dashoffset: 0;
+    animation: stroke 6s infinite linear;
+}
+
+.text-animate:nth-child(5n + 1) {
+    stroke: #F2385A;
+    animation-delay: -1.2s;
+}
+
+.text-animate:nth-child(5n + 2) {
+    stroke: #F5A503;
+    animation-delay: -2.4s;
+}
+
+.text-animate:nth-child(5n + 3) {
+    stroke: #E9F1DF;
+    animation-delay: -3.6s;
+}
+
+.text:nth-child(5n + 4) {
+    stroke: #56D9CD;
+    animation-delay: -4.8s;
+}
+
+.text-animate:nth-child(5n + 5) {
+    stroke: #3AA1BF;
+    animation-delay: -6s;
+}
+
+@keyframes stroke {
+    100% {
+        stroke-dashoffset: -400;
+    }
+}
+
+#watermark_ashkanpoyber {
+    text-decoration: none;
+    position: fixed;
+    bottom: 25px;
+    left: 25px;
+    background: linear-gradient(-120deg, green, purple, red, blue);
+    background-size: 300% 100%;
+    -moz-transition: all .1s ease-in-out;
+    -o-transition: all .1s ease-in-out;
+    -webkit-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+    color: white;
+    font-size: 16px;
+    border-radius: 4px;
+    max-width: 500px;
+    padding: 7px 50px;
+    box-shadow: 1px 7px 14px -5px rgba(0, 0, 0, 0.2);
+    z-index: 10000;
+    transition: all 0.5s linear;
+
+}
+
+#watermark_ashkanpoyber:hover {
+    background-position: 100% 0;
+}
