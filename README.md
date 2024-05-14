@@ -76,8 +76,7 @@ v1.1.1.0 : <br>
 💥 This Is My Final Website Project For My University , But Wait For Other Personal Projects , Thank You For Your Patience 🌹
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> Known Issue's
-⚠ It Is Final Version , Maybe It Getting Some Problems At This Time , I'm Working On Fix! But Wait For Development
-💥
+⚠ It Is Final Version , Then Its Not Getting So Problems. But If You Encounter Any Problem , Let Me Know By Sending An Email <a href = "mailto:AshkanDalili1381@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40" width="60" alt="gmail logo"></a>
 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> ScreenShots
